@@ -1,0 +1,3 @@
+displayName = No More Projectiles
+author = BraycoeYT
+version = 9969.420.22.01
